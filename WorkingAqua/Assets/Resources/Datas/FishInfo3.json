@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1001,
+    "Name": "青花鱼",
+    "Type": "Fish",
+    "Description": "游泳力强，速度大",
+    "BasePrice":100,
+    "IconPath": "Sprites/FishIcon/Albacore"
+  },
+  {
+    "ID": 1002,
+    "Name": "鳀鱼",
+    "Type": "Fish",
+    "Description": "生活在温带海洋中上层的小型鱼类",
+    "BasePrice":100,
+    "IconPath": "Sprites/FishIcon/Anchovy"
+  },
+  {
+    "ID": 1003,
+    "Name": "鲷鱼",
+    "Type": "Fish",
+    "Description": "肉质细嫩而味道鲜美，居海鱼之冠",
+    "BasePrice":1000,
+    "IconPath": "Sprites/FishIcon/Bream"
+  },
+  {
+    "ID": 1004,
+    "Name": "大头鱼",
+    "Type": "Fish",
+    "Description": "头大而肥、肉质雪白细嫩，深受人们喜爱",
+    "BasePrice":250,
+    "IconPath": "Sprites/FishIcon/Bullhead"
+  },
+  {
+    "ID": 1100,
+    "Name": "破旧的钓竿",
+    "Type": "Tool",
+    "Description": "非常破旧的钓竿，似乎能钓上泥鳅",
+    "BasePrice":250,
+    "IconPath": "Sprites/FishIcon/Bullhead"
+  }
+  {
+    "ID": 1101,
+    "Name": "钓竿",
+    "Type": "Tool",
+    "Description": "兼具重量与平衡性的钓竿，适合新手使用",
+    "BasePrice":500,
+    "IconPath": "Sprites/FishIcon/Bullhead"
+  }
+]
